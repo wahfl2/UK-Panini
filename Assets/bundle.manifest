@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1470744202
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e442af64e5e61066d1fe682efc6fd42f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0e14f47fe4260175993ab44963aaaf85
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 84
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/Shaders/PaniniShader.shader
+- Assets/Resources/RenderTextures/CameraCube.renderTexture
+Dependencies: []
